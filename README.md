@@ -1,0 +1,1 @@
+# induction_motor_thermal_images
